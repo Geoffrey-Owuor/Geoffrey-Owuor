@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/owuorokinyi22" target="blank"><img src="https://img.shields.io/twitter/follow/owuorokinyi22?logo=twitter&style=for-the-badge" alt="owuorokinyi22" /></a> </p>
 
-- 🔭 Currently working on [Garbage Collection Management Project](https://github.com/Geoffrey-Owuor/GarbageCollectionManagement)
+- 🔭 Currently working on [Garbage Collection Management Project](https://github.com/Geoffrey-Owuor/GarbageCollection-Management)
 
 - 🌱 I’m currently learning **React, Figma, JavaScript**
 
-- 👯 Hoping to collaborate on [this startup garbage collection project](https://github.com/Geoffrey-Owuor/GarbageCollectionManagement)
+- 👯 Hoping to collaborate on [this startup garbage collection project](https://github.com/Geoffrey-Owuor/GarbageCollection-Management)
 
 - 💬 Let's brainstorm on **Python, PHP, JavaScript**
 
