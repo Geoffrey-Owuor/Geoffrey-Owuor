@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geoffrey-owuor&label=Profile%20views&color=0e75b6&style=flat" alt="geoffrey-owuor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoffrey-owuor" alt="geoffrey-owuor" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/owuorokinyi22" target="blank"><img src="https://img.shields.io/twitter/follow/owuorokinyi22?logo=twitter&style=for-the-badge" alt="owuorokinyi22" /></a> </p>
 
 - 🔭 Currently working on [Garbage Collection Management Project](https://github.com/Geoffrey-Owuor/GarbageCollectionManagement)
