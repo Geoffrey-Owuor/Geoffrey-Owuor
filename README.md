@@ -1,35 +1,113 @@
-<h1 align="center">Hi 👋, I'm Owuor Geoffrey Okinyi</h1>
-<h3 align="center">A passionate **Full-Stack Developer** with a love for creating dynamic and responsive web applications</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Geoffrey | Software Engineer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: #e2e8f0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .container {
+      max-width: 800px;
+      background: #1e293b;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #38bdf8;
+      text-align: center;
+    }
+    p {
+      margin-top: 1rem;
+      line-height: 1.6;
+      font-size: 1.1rem;
+    }
+    .highlight {
+      color: #22d3ee;
+      font-weight: 600;
+    }
+    ul {
+      margin-top: 1rem;
+      padding-left: 1.5rem;
+    }
+    li {
+      margin-bottom: 0.6rem;
+    }
+    .project-title {
+      color: #facc15;
+      font-weight: 600;
+    }
+    .fun-fact {
+      font-style: italic;
+      color: #a5f3fc;
+      margin-top: 2rem;
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: all 0.6s ease-out;
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <div class="container fade-in" id="main">
+    <h1>Hi, I’m Geoffrey 👨🏾‍💻</h1>
+    <p>
+      A <span class="highlight">Software Engineer</span> with a passion for clean code, elegant UI, and sneaking humor into comments where no one dares to look.
+      I recently graduated <span class="highlight">First Class Honors 🎓</span> in Computer Science and have professional experience in
+      <span class="highlight">full-stack development</span>, <span class="highlight">technical support</span>, and <span class="highlight">server maintenance</span>. I’ve also interned at
+      <strong>Kenya Tea Development Agency (KTDA)</strong>—yes, I bring the flavor 🍵.
+    </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geoffrey-owuor&label=Profile%20views&color=0e75b6&style=flat" alt="geoffrey-owuor" /> </p>
+    <p>
+      You’ll usually find me coding in <span class="highlight">PHP</span>, <span class="highlight">JavaScript</span>, or <span class="highlight">Python</span>,
+      styling with <span class="highlight">CSS (the respectful kind)</span>, and building front-ends with <span class="highlight">React</span>. 
+      I'm currently learning <span class="highlight">Figma</span> to make sure my UIs not only work great, but look good enough to screenshot.
+    </p>
 
-<p align="left"> <a href="https://twitter.com/owuorokinyi22" target="blank"><img src="https://img.shields.io/twitter/follow/owuorokinyi22?logo=twitter&style=for-the-badge" alt="owuorokinyi22" /></a> </p>
+    <h2 style="margin-top:2rem; color:#38bdf8;">🔧 Projects I'm Currently Cooking</h2>
+    <ul>
+      <li>
+        <span class="project-title">KTDA IT Toolkit</span>: A sleek web-based dashboard that simplifies technical support operations — from LAN troubleshooting to biometric systems maintenance.
+      </li>
+      <li>
+        <span class="project-title">Mini Data Pipeline</span>: A side project built with Python that mimics ETL processes and prepares me for my dream job as a Data Engineer (MixRank, I’m looking at you 👀).
+      </li>
+      <li>
+        <span class="project-title">React Portfolio Revamp</span>: Rebuilding my personal site with Tailwind, React, and a sprinkle of Framer Motion — because every click should feel like magic ✨.
+      </li>
+    </ul>
 
-- 🔭 Currently working on [Garbage Collection Management Project](https://github.com/Geoffrey-Owuor/GarbageCollection-Management)
+    <p class="fun-fact">Fun Fact: I once fixed a printer jam, rewired a network, and installed a SQL patch — all before lunch. They called me "the Swiss Army Dev."</p>
+  </div>
 
-- 🌱 I’m currently learning **React, Figma, JavaScript**
-
-- 👯 Hoping to collaborate on [this startup garbage collection project](https://github.com/Geoffrey-Owuor/GarbageCollection-Management)
-
-- 💬 Let's brainstorm on **Python, PHP, JavaScript**
-
-- 📫 How to reach me **geoffreyowuor22@gmail.com**
-
-- ⚡ Fun fact **My first Operating System was a 32-bit Linux Mint!!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/owuorokinyi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owuorokinyi22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owuor-geoffrey22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owuor-geoffrey22" height="30" width="40" /></a>
-<a href="https://fb.com/owuor geoffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owuor geoffrey" height="30" width="40" /></a>
-<a href="https://instagram.com/geoffreyowuor22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geoffreyowuor22" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffrey-owuor&show_icons=true&locale=en&layout=compact" alt="geoffrey-owuor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffrey-owuor&show_icons=true&locale=en" alt="geoffrey-owuor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffrey-owuor&" alt="geoffrey-owuor" /></p>
+  <script>
+    // Smooth fade-in animation
+    window.addEventListener('DOMContentLoaded', () => {
+      const fadeIn = document.querySelector('.fade-in');
+      setTimeout(() => {
+        fadeIn.classList.add('visible');
+      }, 300);
+    });
+  </script>
+</body>
+</html>
