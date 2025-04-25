@@ -1,3 +1,5 @@
+```html
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -404,3 +406,15 @@
     </script>
   </body>
 </html>
+```
+
+### 👋 Hello World!
+
+I'm Geoffrey Owuor, a software engineer who believes in making technology work for humans (most of the time).
+
+🔭 **Currently working on:** Saas Inventory Software
+🌱 **Currently learning:** How to explain blockchain to my mother
+👯 **Looking to collaborate on:** Projects that make developers' lives easier  
+💬 **Ask me about:** Why semicolons are optional but your love life isn't  
+📫 **How to reach me:** carrier pigeon preferred, but email works too  
+⚡ **Fun fact:** I once fixed a bug by turning it off and on again
