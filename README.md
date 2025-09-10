@@ -1,9 +1,9 @@
 
 ### 👋 Hello World!
 
-I'm Geoffrey, a software engineer who believes in making technology work for humans (most of the time).
+I'm Jeff, a software engineer who believes in making technology work for humans (most of the time).
 
-🔭 **Currently working on:** Saas Inventory Software & Online garbage collection web application  
+🔭 **Currently working on:** Saas Inventory Software & Staff Product Purchase Portal  
 🌱 **Currently learning:** How to explain blockchain to my mother  
 👯 **Looking to collaborate on:** Projects that make developers' lives easier  
 💬 **Ask me about:** Why semicolons are optional but your love life isn't  
