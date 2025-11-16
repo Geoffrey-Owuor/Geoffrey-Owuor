@@ -1,5 +1,5 @@
 
-### 👋 Hey, I'm Jeff
+## 👋 Hey, I'm Jeff
 
 💻 Software Engineer based in Nairobi, with 3+ years of experience in software development.<br/>
 🚀 I specialize in building (and occasionally designing) exceptional digital experiences.<br/>
